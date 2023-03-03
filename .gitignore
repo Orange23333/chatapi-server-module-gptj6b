@@ -173,8 +173,8 @@ poetry.toml
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # Private
-./venv
-./flags/
-./requests/
+venv/
+flags/
+requests/
 .cache/
-./test.py
+test.py
